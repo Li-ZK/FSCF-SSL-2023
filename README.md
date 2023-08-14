@@ -3,11 +3,11 @@ This is a code demo for the paper "Few-shot Hyperspectral Image Classification w
 Zhaokui Li, Hui Guo, Yushi Chen, Cuiwei Liu, Qian Du, Zhuoqun Fang, and Yan Wang, Few-shot Hyperspectral Image Classification with Self-supervised Learning, IEEE Transactions on Geoscience and Remote Sensing.
 
 ## Requirements
-CUDA = 11.1
-Python = 3.9 
-Pytorch = 1.8.0
-sklearn = 1.0.1
-numpy = 1.21.2
+- CUDA = 11.1
+- Python = 3.9 
+- Pytorch = 1.8.0
+- sklearn = 1.0.1
+- numpy = 1.21.2
 
 ## dataset
 You can download the hyperspectral datasets in mat format at: http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes, and move the files to `./datasets` folder.
