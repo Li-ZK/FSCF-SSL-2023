@@ -38,6 +38,7 @@ datasets
 │   ├── 
 │   ├── 
 
+```
 ## Usage:
 Take FSCF-SSL method : 
 1. Download the required data set and move to folder`./datasets`.
@@ -46,5 +47,3 @@ Take FSCF-SSL method :
    Link: https://pan.baidu.com/s/1af--So40MKjhWdFuIcVyKg 
    Extract code：0tdu
 3. Taking 5 labeled samples per class as an example, run `FSCF-SSL.py
-
-```
