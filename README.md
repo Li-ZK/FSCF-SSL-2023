@@ -34,7 +34,7 @@ datasets
 └── Salinas
 │   ├── Salinas_corrected.mat
 │   ├── salinas_gt.mat
-└──miniImagenet
+└── miniImagenet
 │   ├── 
 │   ├── 
 
