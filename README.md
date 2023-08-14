@@ -46,4 +46,4 @@ Take FSCF-SSL method :
    The VGG pre-training weight file can be downloadfrom the following link:
    Link: https://pan.baidu.com/s/1af--So40MKjhWdFuIcVyKg 
    Extract code：0tdu
-3. Taking 5 labeled samples per class as an example, run `FSCF-SSL.py
+3. Taking 5 labeled samples per class as an example, run `FSCF-SSL.py`
