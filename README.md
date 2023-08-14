@@ -9,7 +9,7 @@ Zhaokui Li, Hui Guo, Yushi Chen, Cuiwei Liu, Qian Du, Zhuoqun Fang, and Yan Wang
 - sklearn = 1.0.1
 - numpy = 1.21.2
 
-## dataset
+## Datasets
 You can download the hyperspectral datasets in mat format at: http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes, and move the files to `./datasets` folder.
 You can also download the hyperspectral datasets from the following link.
 Link: https://pan.baidu.com/s/1k8by5CiyabXRJdD_MVOL1w 
